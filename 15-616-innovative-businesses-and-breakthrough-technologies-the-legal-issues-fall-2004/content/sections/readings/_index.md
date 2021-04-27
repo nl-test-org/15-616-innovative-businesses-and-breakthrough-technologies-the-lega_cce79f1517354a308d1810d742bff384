@@ -1,0 +1,46 @@
+---
+course_id: 15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004
+layout: course_section
+menu:
+  leftnav:
+    identifier: 3d8d4c990797b23b7d7fc867d6b2e86a
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: 3d8d4c990797b23b7d7fc867d6b2e86a
+
+---
+
+The course textbook is: Bagley, Constance E., and Craig E. Dauchy. _The Entrepreneur's Guide to Business Law._ 2nd ed. Mason, OH: South-Western College Publishing, 2002. ISBN: 0324042914.
+
+| LEC # | TOPICS | readings |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Module I - Basic Building Blocks**{{< /td-colspan >}} |||
+| 1 | Introduction | Akula, John. "Tort Law in a Peanut" ([PDF]({{< baseurl >}}/sections/readings/tort_law))  {{< br >}}  {{< br >}}In re _Union Carbide Corp. Gas Plant Disaster_, 634 F. Supp. 842, 844 (1986). (Early legal maneuvering relating to massive industrial accident in Bhopal, India) |
+| 2 | The Law of Duties | _Wickline v. State of California_, 192 Cal. App. 3d 1630, 239 Cal. Rptr. 810 (Ct. App. 1986). (Early case on liability of an HMO for poor medical care; raises issues of accountability for professional judgments in the context of an innovative business model).  {{< br >}}  {{< br >}}_Kozup v. Georgetown University_, et al., 663 F. Supp. 1048, 1057, 1058 (D DC 1988). (Liability of hospital for HIV-tainted blood infusion). |
+| 3 | The Hard Edge of Regulation | Akula, John. "Business Crime: What To Do When the Law Pursues You." _MIT Sloan Management Review_ 41, no. 3 (Spring 2000): 29-41.  {{< br >}}  {{< br >}}In the matter of John Gutfreund (SEC release on action against Solomon executives) |
+| 4 | Contract I | Bagley. Chapter 8 ("Contracts and Leases"), pp. 176-191 (then skip "Electronic Contracts"); 193-210 (stop before "Promissory Estoppel"). |
+| 5 | Contracts II | _Tarbert Trading, Ltd. v. Cometals, Inc._, 663 F.Supp. 561, 567 (S.D.N.Y. 1987). (Public policy)  {{< br >}}  {{< br >}}_Filanto, SPA v. Chilewich Int'l Corp.,_ 984 F.2d 58, 60 (2d Cir. 1993).  (Dispute over inclusion of arbitration term).  {{< br >}}  {{< br >}}_Transatlantic Financing Corp. v. United States,_ 363 F.2d 312 (D.C. Cir. 1966). (Allocating risk).  {{< br >}}   {{< br >}}{{< br >}} _Delchi Carrier SpA v. Rotorex Corp.,_ 71 F.3d 1024, 1027-28 (2d Cir. 1995). (Damages). {{< br >}}{{< br >}}  |
+| {{< td-colspan 5 >}}**Module II - Launching, Growing, and Exiting a Venture**{{< /td-colspan >}} |||||
+| 6 | Setting Up a New Venture  {{< br >}}  {{< br >}}Guest: Joe Hadzima, Main St. Partners | Bagley. Chapter 4 ("Deciding Whether to Incorporate"), pp. 49-70 (stop before "Putting it into Practice"), and Chapter 5 ("Structuring the Ownership"), pp. 74-106 (stop before "Putting it into Practice"). |
+| 7 | Financing the Venture I - Venture Capital  {{< br >}}  {{< br >}}Guest: Kenneth Gordon, Testa Hurwitz & Thibeault | Bagley. Chapter 7 ("Raising Money and Securities Regulation"), pp. 133-164 (stop before Exhibit 7.2), and Chapter 13 ("Venture Capital), pp. 431-473 (stop before "Putting it into Practice").  {{< br >}}  {{< br >}}Sample Venture Capital Term Sheet |
+| 8 | Financing the Venture II - Going Public  {{< br >}}  {{< br >}}Guest: Kenneth Gordon, Testa Hurwitz & Thibeault | Bagley. Chapter 17 ("Going Public"), pp. 649-698 (stop before "Putting it into Practice"). |
+| 9 | Joint Ventures and M&A | &nbsp; |
+| 10 | Employment; Module Wrap-up | Bagley. Chapter 2 ("Leaving your Employer"), pp. 9-28 (stop before "Putting it into Practice"), and Chapter 10 ("Marshalling Human Resources"), pp. 265-305 (stop before "The Employment Agreement"). |
+| {{< td-colspan 3 >}}**Module III - Innovation, Commercialization, and Intellectual Property**{{< /td-colspan >}} |||
+| 11 | Introduction to Technology Transfer | For this module, read all of Bagley, chapter 14, except stop before "Putting it into Practice."  {{< br >}}  {{< br >}}Waugaman, Paul, and Roger Porter. "Mechanisms of Interactions Between Industry and the Academic Medical Center." In _Biomedical Research: Collaboration and Conflict of Interest_. Edited by Roger Porter and Thomas Malone. Baltimore, MD: Johns Hopkins University Press, 1992, pp. 93-118. ISBN: 0801844002.  {{< br >}}  {{< br >}}Moses, H., E. Braunwald, J. Martin and S. Their. "Collaborating with Industry - Choices of the Academic Medical Center." _New England Journal of Medicine_ 347, no. 17 (October 2002): 1371-5.  {{< br >}}  {{< br >}}_Stern v. Lucy Webb_, 381 F. Supp. at 1013. (Perhaps the most influential modern decision on conflicts of interest in a non-profit corporation). |
+| 12 | Copyrights and Software | Bagley. pp. 498-510 ("Copyright.")  {{< br >}}  {{< br >}}_Lotus Development Corp. v. Bortland International Inc._ , 49 F.3d 807 (1st Cir. 1995). (Leading case on copyright protection for software).  {{< br >}}  {{< br >}}In re _Aimster_, 334 F.3d 643 (7th Cir. 2003). (Recent case on peer-to-peer copying). |
+| 13 | Patents I: The Basics of Patent Law  {{< br >}}  {{< br >}}Guest: Bo Pasternack, Choate Hall | Bagley. Chapter 14 (section on "Patents"), pp. 510-25.  {{< br >}}  {{< br >}}_Amazon.com, Inc. v. Barnesandnoble.com, Inc._, 239 F.3d 1343, 1350, 57 USPQ2d 1747, 1751 (Fed. Cir. 2001). (Leading case on internet-related business method patents). Please read carefully before class if you are "on-deck" - otherwise you may want to skim it and read it carefully after class.  |
+| 14 | Patents II: Breakthrough Technologies - The Example of Biotechnology Patents  {{< br >}}  {{< br >}}Guest: Anita Meiklejohn, Fish & Richardson | Elliott, George C. "A Brief Guide to Understanding Patentability and the Meaning of Patents." _Academic Medicine_ 77, no. 12, part 2 (December 2002): 1309-14.  {{< br >}}  {{< br >}}Rai, Arti. "Genome Patents: A Case Study in Patenting Research Tools." _Academic Medicine_ 88, no. 12, part 2 (December 2002): 1368-72.  {{< br >}}  {{< br >}}Goldstein, Jorge, and Elina Golod. "Human Gene Patents." _Academic Medicine_ 77, no. 12, part 2 (December 2002): 1315-28.  {{< br >}}  {{< br >}}Newspaper clippings about Amgen, Cox-2, and Ariad litigation. |
+| 15 | Antitrust, JVs and IP | Akula, John. "Antitrust Law in a Peanut." 1993.  {{< br >}}  {{< br >}}"Antitrust Guidelines for the Licensing of Intellectual Property." Issued by the U.S. Department of Justice and the Federal Trade Commission. 6 April 1995. ([PDF]({{< baseurl >}}/sections/readings/ip_guide))  {{< br >}}  {{< br >}}Newspaper clippings about airlines setting suit by government on fares, Varta Bosch, and U.S. vs. Microsoft®. |
+| 16 | IP Rights and Business Strategies I  {{< br >}}  {{< br >}}Guest: Sarah Cabot, Mintz Levin Cohn Ferris Glovsky & Popeo | Moscho, Alexander, Regina Hodits, Friedmann Janus, and Josef Leiter. "Deals That Make Sense." _Nature Biotechnology_ 18, no. 7 (July 2000): 719-22.  {{< br >}}  {{< br >}}Meltzer, Steven, Michelle Marks, and James McCormick. "Intellectual Property as a Foundation for Funding." _Nature Biotechnology_ 20, supplement: BE47-BE50.  {{< br >}}  {{< br >}}Barrett, Bill, and Cave Crawford. "Integrating the Intellectual Property Value Chain." _Nature Biotechnology_ 20, supplement: BE43-BE46. |
+| 17 | IP Rights and Business Strategies II  {{< br >}}  {{< br >}}Guest: Joe Hadzima, Main St. Partners | Davis, Julie, and Suzanne Harrison. _Edison in the Boardroom: How Leading Companies Realize Value Form their Intellectual Assets. _ New York, NY: John Wiley & Sons, 2001, pp. 12-15 and 143-158. ISBN: 0471397369.  {{< br >}}  {{< br >}}Rivette, Kevin, and David Kline. _Rembrandts in the Attic: Unlocking the Hidden Value of Patents._ Cambridge, MA: Harvard Business School Press, 2000, pp. 1-13 and 33-36. ISBN: 0875848990. |
+| 18 | Shifting Business Models and the Law: The Example of the Internet  {{< br >}}  {{< br >}}Guest: Jorge Contreras, Hale & Dorr | Bagley. Chapter 14 (section on "Trademarks" and "Domain Names"), pp. 525-534.  {{< br >}}  {{< br >}}Not required reading - for your future reference only: Hale and Dorr LLP's "2003 Internet Alerts." Available at the Web site of [Hale and Dorr LLP](http://www.wilmerhale.com/publications/whPubsDetail.aspx?publication=2144). |
+| 19 | International IP Protection; Licensing; Wrap-up | Newspaper clippings on Prilosec, GlaxoSmithKline and AIDS Drugs. Corixa, and Integra. |
+| {{< td-colspan 3 >}}**Module IV - Innovation: The Regulatory and Liability Risks**{{< /td-colspan >}} |||
+| 20 | Litigation | Akula, John. "Business Disputes - The U.S. Legal Framework." |
+| 21 | The Inside Counsel's Perspective  {{< br >}}  {{< br >}}Guests: Tom DesRosiers, Genzyme | &nbsp; |
+| 22 | Bankruptcy and Reorganization {{< br >}}{{< br >}} Guest: Jeanne Darcey, Palmer & Dodge {{< br >}}{{< br >}}  | Bagley. Chapter 12 ("Creditors Rights and Bankruptcy"), pp. 384-428 (stop before "Putting it into Practice"). |
+| 23 | National Security and Dealing with Government | &nbsp; |
+| 24 | Products Liability  {{< br >}}  {{< br >}}Guest: David Geiger, Foley Hoag | Bagley. Chapter 9 (section on "Strict Liability for Defective Products"), pp. 239-246.
